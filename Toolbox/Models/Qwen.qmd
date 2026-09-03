@@ -71,7 +71,7 @@ For those who are interested, there are some important factors to take into cons
 - [**Resource**: Galinkin's Report on LLM Vulnerabilities](https://arxiv.org/html/2506.13726v1):  If interested, this report opens up about the security vulnerabilities associated with Qwen open-source model as discussed in the Risk section.
 - [**Resource**: GenAI at UW-Madison](https://uw-madison-datascience.github.io/ML-X-Nexus/Toolbox/GenAI/GenAI-at-UW-Madison.html): Institution-focused guidance on generative AI tools and services.
 - [**Resource**: Report on Post-training bias](https://arxiv.org/html/2605.23825v1): Research article conducted by Duke University highlighting post-training bias surrounding Qwen models. 
-- [**Resource**: Research on Systematic Bias in LLMs](https://arxiv.org/html/2605.23825v1): In-depth study conducted by Nanyang Technological University (Singapore) exploring systematic bias within LLMs when it comes to topics surrounding politics and issues alike.  
+- [**Resource**: Research on Systematic Bias in LLMs](https://arxiv.org/html/2512.15792v2): In-depth study conducted by Nanyang Technological University (Singapore) exploring systematic bias within LLMs when it comes to topics surrounding politics and issues alike.  
 
 
 ## Comments 
